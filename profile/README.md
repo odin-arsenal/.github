@@ -15,6 +15,12 @@ Odin’s legacy lives on in the tales of his mythical arsenal and his multifacet
 In the same spirit, this project never misses a _Markdown_ style comment and generates _Markdown_ files
 to document `*.odin` files.
 
+### 💍 [Draupnir: Odin’s Magical Ring of Abundance](https://github.com/odin-arsenal/draupnir)
+
+[Draupnir](https://github.com/odin-arsenal/draupnir) a magical ring that symbolizes prosperity and abundance. Every ninth night, Draupnir would produce eight new rings of the same size and weight, adding to Odin’s wealth and power. This magical ring adds to the allure of Odin’s arsenal and the mythology that surrounds it.
+
+In the same spirit, this project adds to Odin's wealth and power by scaffolding `Odin` projects.
+
 ## Links
 
 - https://viking.style/odins-arsenal-the-weapons-of-the-allfather-revealed/
