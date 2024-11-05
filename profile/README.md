@@ -21,7 +21,7 @@ to document `*.odin` files.
 
 [Draupnir](https://github.com/odin-arsenal/draupnir) a magical ring that symbolizes prosperity and abundance. Every ninth night, Draupnir would produce eight new rings of the same size and weight, adding to Odin’s wealth and power. This magical ring adds to the allure of Odin’s arsenal and the mythology that surrounds it.
 
-In the same spirit, this project adds to Odin's wealth and power by scaffolding `Odin` projects.
+In the same spirit, this project adds to Odin's wealth and power by scaffolding `Odin` projects with a series of well though project file and directory structures.
 
 ## Links
 
