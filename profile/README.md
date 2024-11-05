@@ -8,6 +8,8 @@ Odin was known for his insatiable thirst for knowledge, his strategic prowess an
 
 Odin’s legacy lives on in the tales of his mythical arsenal and his multifaceted persona as a seeker of wisdom, a warrior, and a ruler.
 
+This is a project of tools made for Odin developers. They will range from simple templates to sophisticated systems and applications. Contributing to Odin ecosystem and help Odin developers feel happy, wholesome and powerful.
+
 ### 🪡 [Gungnir: Odin’s Spear of Power](https://github.com/odin-arsenal/gungnir)
 
 [Gungnir](https://github.com/odin-arsenal/gungnir), the spear of Odin, is a symbol of power and authority in Norse mythology. According to legend, Odin himself created the spear and imbued it with magical properties that made it unstoppable in battle. It is said that Gungnir never missed its mark and always returned to Odin’s hand, no matter how far he threw it.
