@@ -23,7 +23,7 @@ to document `*.odin` files.
 
 In the same spirit, this project adds to Odin's wealth and power by scaffolding `Odin` projects with a series of thoughtful project file and directory structures.
 
-### 📜 [Völuspá: The seeress](https://github.com/odin-arsenal/voluspa)
+### 📜 [Völuspá: Prophecy of the völva, a seeress](https://github.com/odin-arsenal/voluspa)
 
 [The seeress](https://github.com/odin-arsenal/voluspa) then reveals to Odin that she knows some of his own secrets [...]. Finally a beautiful reborn world will rise [...] a new world where the earth sprouts abundance without sowing seed.
 
