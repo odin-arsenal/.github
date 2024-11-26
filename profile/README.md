@@ -23,12 +23,6 @@ to document `*.odin` files.
 
 In the same spirit, this project adds to Odin's wealth and power by scaffolding `Odin` projects with a series of thoughtful project file and directory structures.
 
-### 📜 [Völuspá: Prophecy of the völva, a seeress](https://github.com/odin-arsenal/voluspa)
-
-[The seeress](https://github.com/odin-arsenal/voluspa) then reveals to Odin that she knows some of his own secrets [...]. Finally a beautiful reborn world will rise [...] a new world where the earth sprouts abundance without sowing seed.
-
-In the same spirit Völuspá project aims to share some Odin's secrets, by creating documentation that complements Odin official docs. Rising a new world where documentation sprouts abundance of projects using Odin.
-
 ## Links
 
 - https://viking.style/odins-arsenal-the-weapons-of-the-allfather-revealed/
